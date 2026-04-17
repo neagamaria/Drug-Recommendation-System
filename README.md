@@ -29,3 +29,5 @@ The first stage involves implementing three Machine Learning methods for classif
 - SVM for category classification
 - Logistic Regression for predictions — whether a drug can be considered an alternative
 
+##Analysis
+<img width="850" height="394" alt="image" src="https://github.com/user-attachments/assets/b7c39dff-8573-478e-8026-95f49baefdf2" />
